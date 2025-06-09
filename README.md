@@ -10,7 +10,7 @@ Bem-vindo(a) à minha central de links! Este é um projeto simples e responsivo 
 
 ## 🎨 Meus DashBoards
 
-Confira alguns dos meus trabalhos no Figma:
+Confira alguns dos meus DashBoards feitos no PowerBI:
 
 - [Prevendo a Produção Industrial ao Longo do Tempo](https://app.powerbi.com/view?r=eyJrIjoiYzhlNTAyNzctYzk1Ni00Y2UyLWE0MTMtZmE5YWY1ZWMwN2YyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 - [Análise de Campanhas de Marketing - Visão do Cliente](https://app.powerbi.com/view?r=eyJrIjoiODM1ZjQ1NWMtZmMwYi00NmU4LThmYjQtYzdmMTg4ZjczYWY2IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
