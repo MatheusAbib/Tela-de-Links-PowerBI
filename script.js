@@ -26,9 +26,9 @@ const welcome = document.getElementById("welcome");
 const hour = new Date().getHours();
 let message = "";
 
-if (hour < 12) message = "Bom dia! Explore meus DashBoards interativos feitos no PowerBI";
-else if (hour < 18) message = "Boa tarde! Explore meus DashBoards interativos feitos no PowerBI";
-else message = "Boa noite! Explore meus DashBoards interativos feitos no PowerBI";
+if (hour < 12) message = "Bom dia! Explore meus Dashboards interativos feitos no PowerBI";
+else if (hour < 18) message = "Boa tarde! Explore meus Dashboards interativos feitos no PowerBI";
+else message = "Boa noite! Explore meus Dashboards interativos feitos no PowerBI";
 
 typeWriter(welcome, message);
 
