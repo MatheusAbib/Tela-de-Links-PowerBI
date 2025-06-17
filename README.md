@@ -8,7 +8,7 @@ Bem-vindo(a) à minha central de links! Este é um projeto simples e responsivo 
 - Suporte a modo claro/escuro 🌙☀️
 - Links para DashBoards
 
-## 🎨 Meus DashBoards
+## 🎨 Meus Dashboards
 
 Confira alguns dos meus DashBoards feitos no PowerBI:
 
