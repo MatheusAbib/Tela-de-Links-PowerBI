@@ -1,4 +1,4 @@
-# 🌐 Tela de links dos meus Projetos no PowerBI
+# 🌐 Tela de links dos meus Dashboards no PowerBI
 
 Bem-vindo(a) à minha central de links! Este é um projeto simples e responsivo que reúne todos os meus principais links dos meus DashBoards interativos feitos no PowerBI — incluindo redes e portfólio.
 
