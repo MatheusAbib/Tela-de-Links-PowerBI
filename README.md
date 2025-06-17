@@ -6,7 +6,7 @@ Bem-vindo(a) à minha central de links! Este é um projeto simples e responsivo 
 
 - Interface minimalista e responsiva
 - Suporte a modo claro/escuro 🌙☀️
-- Links para DashBoards
+- Links para Dashboards
 
 ## 🎨 Meus Dashboards
 
