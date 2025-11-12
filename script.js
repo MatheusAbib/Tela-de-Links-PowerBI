@@ -1,4 +1,4 @@
- // Dark/light mode com localStorage
+   // Dark/light mode com localStorage
     const html = document.documentElement;
     function toggleTheme() {
       html.classList.toggle("light");
@@ -26,9 +26,9 @@ const welcome = document.getElementById("welcome");
 const hour = new Date().getHours();
 let message = "";
 
-if (hour < 12) message = "Bom dia! Explore meus Dashboards interativos feitos no PowerBI";
-else if (hour < 18) message = "Boa tarde! Explore meus Dashboards interativos feitos no PowerBI";
-else message = "Boa noite! Explore meus Dashboards interativos feitos no PowerBI";
+if (hour < 12) message = "Bom dia! Explore meus Dashboards interativos feitos no Power BI";
+else if (hour < 18) message = "Boa tarde! Explore meus Dashboards interativos feitos no Power BI";
+else message = "Boa noite! Explore meus Dashboards interativos feitos no Power BI";
 
 typeWriter(welcome, message);
 
@@ -46,8 +46,11 @@ typeWriter(welcome, message);
     function copyWhatsApp() {
       const number = "+55 11975072008";
       navigator.clipboard.writeText(number).then(() => {
-        alert("Número de WhatsApp copiado!");
-      });
+      const notification = document.getElementById('notificationWttp');
+        notification.style.display = 'block';
+        setTimeout(() => {
+          notification.style.display = 'none';
+        }, 2000);      });
     }
 
     // Fade-in ao rolar
