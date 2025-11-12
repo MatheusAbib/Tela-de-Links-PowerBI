@@ -105,7 +105,7 @@
     }
 
 #switch {
-  margin: 20px auto;
+  margin: 25px auto;
   width: 75px; 
   height: 30px;
   background: var(--link-bg);
@@ -149,7 +149,7 @@
 
     ul {
       list-style: none;
-      padding: 24px 0;
+      padding-bottom: 15px;
       display: flex;
       flex-direction: column;
       gap: 16px;
@@ -252,8 +252,8 @@
     }
 
     footer {
-      margin-top: 20px;
-      font-size: 14px;
+      padding-top: 15px;
+      font-size: 15px;
       opacity: 0.8;
     }
 
