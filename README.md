@@ -3,10 +3,10 @@
 Bem-vindo(a) à minha central de links! Este é um projeto simples e responsivo que reúne todos os meus principais links dos meus DashBoards interativos feitos no PowerBI — incluindo redes e portfólio.
 
 ## 💡 Funcionalidades:
-• Interface responsiva
-• Suporte a modo claro/escuro 
-• Links diretos para meus projetos
-• Mensagem de boas-vindas personalizada conforme o período do dia (manhã, tarde, noite)
+- Interface responsiva
+- Suporte a modo claro/escuro 
+- Links diretos para meus projetos
+- Mensagem de boas-vindas personalizada conforme o período do dia (manhã, tarde, noite)
 
 ## 🎨 Meus DashBoards
 
