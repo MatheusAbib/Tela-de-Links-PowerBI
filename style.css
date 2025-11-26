@@ -68,7 +68,7 @@
       background: rgba(255, 255, 255, 0.35);
     }
 
-    /* Header Styles - Responsivo */
+    /* Header Styles*/
     #header {
       background: var(--header-bg);
       backdrop-filter: blur(10px);
