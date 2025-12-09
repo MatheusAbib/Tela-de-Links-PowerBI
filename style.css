@@ -176,12 +176,13 @@
     }
 
     #profile img {
-      width: 185px;
-      height: 200px;
+      width: 180px; 
+      height: 180px; 
       border-radius: 50%;
       border: 2px solid transparent;
       background: var(--gradient-1) padding-box, var(--gradient-1) border-box;
       transition: transform 0.5s ease, box-shadow 0.5s ease;
+      object-fit: cover; 
     }
 
     #profile img:hover {
